@@ -1,4 +1,4 @@
-<img src="https://github.com/Sayandip6/First-demo/blob/main/my_face.jpg" width=100% height=80% >
+<img src="https://github.com/Sayandip6/First-demo/blob/main/my_face_git.png" width=100% height=80% >
 
 ## About me : 😀
 
