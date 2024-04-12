@@ -2,7 +2,7 @@
 
 ## About me : 😀
 
-Hey there! I'm Sayandip . I'm a student in Computer Applications... I love to create 3D based projects in blender and three.js...
+Hey there! I'm Sayandip . I'm a student in Computer Applications from West Bengal, India ... <br>I love to create 3D based projects in blender and three.js...
 
 Visit my YouTube   : https://www.youtube.com/channel/UCMbrgTPn2hxWzWQTV0p5E5g <br>
 Visit my Instagram : https://www.instagram.com/sayandip_naskar18/
