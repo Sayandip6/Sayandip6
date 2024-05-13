@@ -18,7 +18,7 @@ I'm a student in Computer Applications from West Bengal, India ...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sayandip_naskar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayandip_naskar18" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arashi_no" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arashi_no" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/arashi_no](https://www.youtube.com/channel/UCMbrgTPn2hxWzWQTV0p5E5g)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arashi_no" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
