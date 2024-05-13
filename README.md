@@ -1,7 +1,7 @@
 <img src="https://github.com/Sayandip6/First-demo/blob/main/my_face_git.png" width=100% height=80% >
 
 ## About me : 😀
-<h1 align="center">Hey there! 👋 I'm Sayandip p</h1>
+<h1 align="center">Hey there! 👋 I'm Sayandip </h1>
 I'm a student in Computer Applications from West Bengal, India ... 
 <br>I love to create 3D based projects in blender and three.js...
 
