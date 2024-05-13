@@ -1,16 +1,9 @@
 <img src="https://github.com/Sayandip6/First-demo/blob/main/my_face_git.png" width=100% height=80% >
 
 ## About me : 😀
-
-Hey there! I'm Sayandip .<br>
+<h1 align="center">Hey there! 👋 I'm Sayandip p</h1>
 I'm a student in Computer Applications from West Bengal, India ... 
 <br>I love to create 3D based projects in blender and three.js...
-
-Visit my YouTube   : https://www.youtube.com/channel/UCMbrgTPn2hxWzWQTV0p5E5g <br>
-Visit my Instagram : https://www.instagram.com/sayandip_naskar18/
-
-<h1 align="center">Hi 👋, I'm Sayandip</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayandip6&label=Profile%20views&color=0e75b6&style=flat" alt="sayandip6" /> </p>
 
