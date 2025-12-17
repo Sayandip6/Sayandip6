@@ -1,4 +1,4 @@
-<img src="[https://github.com/Sayandip6/First-demo/blob/main/my_face_git.png](https://raw.githubusercontent.com/Bhai4You/bhai4you/master/msg5780888591-38934.jpg)" width=100% height=80% >
+<img src="pawel-czerwinski-FAlYVtV1kRg-unsplash.jpg" width=100% height=80% >
 
 ## About me : 😀
 <h1 align="center">Hey there! 👋 I'm Sayandip </h1>
