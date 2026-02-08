@@ -1,4 +1,4 @@
-<img src="[https://github.com/Sayandip6/priv/blob/f3e4cadadabce3ea85b5d8086b26c9750bf9efa7/pawel-czerwinski-FAlYVtV1kRg-unsplash.jpg" width=1000px height=500px](https://github.com/Sayandip6/cv/blob/main/images/github-header-banner.png) >
+<img src="[https://github.com/Sayandip6/priv/blob/f3e4cadadabce3ea85b5d8086b26c9750bf9efa7/pawel-czerwinski-FAlYVtV1kRg-unsplash.jpg" width=1000px height=500px]>
 
 ## About me : 😀
 <h1 align="center">Hey there! 👋 I'm Sayandip </h1>
