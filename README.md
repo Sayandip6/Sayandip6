@@ -9,7 +9,7 @@ I'm a student in Computer Applications from West Bengal, India ...
 
 - 🌱 I’m currently learning **three.js**
 
-- 👨‍💻 All of my projects are available at [https://sayandip6.github.io/DevoloperFolio/](https://sayandip6.github.io/Developer_Folio/)
+- 👨‍💻 All of my projects are available at [https://arashi-pf.netlify.app/](https://arashi-pf.netlify.app/)
 
 - 📫 How to reach me **sayandipnskrar@gmail.com**
 
